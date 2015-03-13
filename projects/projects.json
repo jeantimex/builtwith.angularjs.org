@@ -3647,7 +3647,25 @@
         "Static",
         "Responsive"
       ]
+    },
+    {
+      "name": "Chinese Puzzle Game Hua Rong Dao",
+      "thumb": "huarongdao/thumb.png",
+      "desc": "Chinese most favorite puzzle game, very challenging.",
+      "url": "http://jinandsu.net/huarongdao",
+      "info": "http://jinandsu.net/huarongdao/#/about",
+      "src": "https://github.com/jeantimex/hua-rong-dao-html",
+      "submitter": "jeantimex",
+      "submissionDate": "2015-03-13",
+      "tags": [
+        "Production",
+        "Game",
+        "Local Storage",
+        "jQuery",
+        "Open Source",
+        "Tests Included",
+        "Interactive"
+      ]
     }
-
   ]
 }
